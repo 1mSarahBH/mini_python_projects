@@ -19,11 +19,7 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 5. Run the following command:
 
 ```bash
-python calculator_cleaned.py
+python calculator.py
 ```
-
-## 📸 Screenshot
-> *(You can insert a screenshot of the app here)*
-
 ## 👩‍💻 Author
 **Sarah Alhamidi**
